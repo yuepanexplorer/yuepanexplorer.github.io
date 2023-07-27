@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Yue Pan, a first-year astrophysics Ph.D at Princeton University. My research interest includes using both computational and observational astrophysics to understand physics of galaxy formation and evolution. 
+I'm Yue Pan, a first-year astrophysics Ph.D at Princeton University. My research interest includes using both computational and observational astrophysics to understand physics of galaxy formation and evolution. 
