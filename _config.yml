@@ -85,7 +85,7 @@ author:
   bio              : "Astrophysics Ph.D @ Princeton"
   location         : "Princeton, NJ"
   employer         :
-  NASA/ADS         : "https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7922-9726&sort=date%20desc%2C%20bibcode%20desc"
+  #NASA/ADS         : "https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7922-9726&sort=date%20desc%2C%20bibcode%20desc"
   googlescholar    : "https://scholar.google.com/citations?user=JqE4oDUAAAAJ&hl=en"
   email            : "yue.pan@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
