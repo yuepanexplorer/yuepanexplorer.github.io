@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<a href="https://github.com/yuepanexplorer/yuepanexplorer.github.io/blob/master/files/CV.pdf">Download my CV</a>
+<a href="https://yuepanexplorer.github.io/files/CV.pdf">Download my CV</a>
 
