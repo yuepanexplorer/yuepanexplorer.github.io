@@ -21,7 +21,7 @@ results with several observations (Satellies Around Galactic Analogs, <a href="h
 the Exploration of Local VolumE Satellites survey, <a href="https://arxiv.org/abs/2203.00014">ELVES</a>) and found that they are consistent. 
 See details in my paper <a href="https://arxiv.org/abs/2208.13805">here</a>). 
 
-How can we more efficiently identify more member stars of dwarf galaxies in observations?
+How can we more efficiently identify member stars of dwarf galaxies in observations?
 ---
 
 
