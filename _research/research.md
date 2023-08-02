@@ -51,15 +51,14 @@ How does stochastic star formation affect global properties of dwarf galaxies?
 ---
 For my honors thesis, I worked with Prof. <a href="https://astro.uchicago.edu/~andrey/">Andrey Kravtsov</a> on improving a semi-analytical galaxy evolution
 model called <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2667K/abstract">GRUMPY</a>
-(credit to the <a href="https://en.wikipedia.org/wiki/Grumpy_Cat">GRUMPY cat</a>, don't ask me why they named it that) by implementing stochastic star formation in dwarf galaxies in the model. The dwarf galaxies that the model produces exhibit properties that align with observations, but one issue is that there is no faint, blue dwarf galaxies in the model, but they exist in observations such as SAGA and ELVES.
-
-
+(credit to the <a href="https://en.wikipedia.org/wiki/Grumpy_Cat">GRUMPY cat</a>, don't ask me why they named it that) by implementing stochastic star formation in dwarf galaxies in the model. The dwarf galaxies that the model produces exhibit properties that align with observations, but one issue is that there is no faint, blue dwarf galaxies in the model, but they exist in observations such as <a href="https://sagasurvey.org/">SAGA</a> and 
+<a href="https://arxiv.org/abs/2203.00014">ELVES</a>. We posited that if we implement stochastic star formation in the model, some dwarf galaxies will continue to sporadically form stars after the epoch of reionization and thus have a blue color at the present day. This stochastic star formation in dwarf galaxies is also empirically driven, since the star formation rate in dwarf galaxies is primarily driven by only a few star-forming giant molecular clouds (GMCs) and is subject to small number statistics. In the original model, star formation is averaged over 2.5 Gyr - one-fifth of the age of the universe - and thus does not physically represent the bursty nature of star formation in dwarf galaxies. We revert to the <a href="https://en.wikipedia.org/wiki/Fourier_transform">Fourier</a> space of the star formation hisotry for each model galaxy and add power on small timescale variations to represent stochasticity. We found that, unlike what we thought it should be, stochastic star formation does not produce a population of faint, blue dwarf galaxies. Stochastic metallicites, on the other hand, does make some faint dwarf galaxies bluer because lower metallicity is usually associated with a bluer color. Indeed, <a href="https://arxiv.org/abs/2203.00014">ELVES</a> people also found that those faint, blue dwarf galaxies in their survey exhibit early-type morphology, indicating that their blue color does not come from star formation. Paper forthcoming. Stay tuned!
 
 
 
 Other research explorations: cosmology
 ---
-
+During the summer of 2022, I was selected as one of the DAAD RISE Germany scholar and got a chance to visit the Ludwig Maximilian University of Munich. I worked with Dr. <a href="https://www.usm.lmu.de/people/stella/stella.html">Stella Seitz</a>, Anik Halder, and Laurence Gong, on 
 
 
 
