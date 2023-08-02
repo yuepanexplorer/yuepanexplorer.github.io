@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-Before I start grad school, I sampled many fields of astrophysics. I put an emphasis on studying ultra-faint dwarf galaxies (
-<a href="https://en.wikipedia.org/wiki/Dwarf_galaxy#:~:text=Ultra%2Dfaint%20dwarf%20galaxies,-Ultra%2Dfaint%20dwarf&text=Unlike%20GCs%2C%20UFDs%20contain%20a,dark%20matter%2Ddominated%20systems%20known.">UFDs</a>) - one of the oldest, most dark-matter dominated, and chemically primitive stellar systems in the universe - because I was intrigued by their power to challenge
+Before I start grad school, I sampled many fields of astrophysics. I put an emphasis on studying ultra-faint dwarf galaxies (<a href="https://en.wikipedia.org/wiki/Dwarf_galaxy#:~:text=Ultra%2Dfaint%20dwarf%20galaxies,-Ultra%2Dfaint%20dwarf&text=Unlike%20GCs%2C%20UFDs%20contain%20a,dark%20matter%2Ddominated%20systems%20known.">UFDs</a>) - one of the oldest, most dark-matter dominated, and chemically primitive stellar systems in the universe - because I was intrigued by their power to challenge
 the <a href="https://en.wikipedia.org/wiki/Lambda-CDM_model">ΛCDM</a> paradigm and UChicago (where I did my undergrad) happens to have many experts in this field. Below are three questions I tried to answer in my three research projects about dwarf galaxies. 
 
 How do dwarf galaxies quench?
@@ -45,20 +44,27 @@ photometric metallicity of each star in the camera's FOV. This works because the
  metal absorption line and can
 thus be used to relate _u_-band brightness to metallicity. We then apply an isochrone cut, proper motion cut, and photometric metallicity cut to select member stars of each UFD. We plotted out the spatial distribution of these member stars, and found that Boötes I is possibly undergoing tidal disruption
 by the MW host, Boötes II has a much more isotropic distribution of member stars but needs follow-up spectroscopy to confirm, and Segue I
-is possibly also undergoing tidal disruption. Moreover, we found new member stars of Segue I out to 5-6 half-light radii of the system. Paper forthcoming and stay tuned!
+is possibly also undergoing tidal disruption. Moreover, we found new member stars of Segue I out to 5-6 half-light radii of the system. Paper forthcoming. Stay tuned!
 
 
 How does stochastic star formation affect global properties of dwarf galaxies?
 ---
 For my honors thesis, I worked with Prof. <a href="https://astro.uchicago.edu/~andrey/">Andrey Kravtsov</a> on improving a semi-analytical galaxy evolution
 model called <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2667K/abstract">GRUMPY</a>
-(credit to the <a href="https://en.wikipedia.org/wiki/Grumpy_Cat">GRUMPY cat</a>, don't ask me why they named it that) by implementing stochastic star formation for dwarf galaxies in the model. 
+(credit to the <a href="https://en.wikipedia.org/wiki/Grumpy_Cat">GRUMPY cat</a>, don't ask me why they named it that) by implementing stochastic star formation in dwarf galaxies in the model. The dwarf galaxies that the model produces exhibit properties that align with observations, but one issue is that there is no faint, blue dwarf galaxies in the model, but they exist in observations such as SAGA and ELVES.
 
 
 
 
 
+Other research explorations: cosmology
+---
 
+
+
+
+Non-astro research exploration: machine learning!
+---
 
 
 
