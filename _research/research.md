@@ -5,13 +5,13 @@ permalink: /research/
 ---
 
 Before I start grad school, I sampled many fields of astrophysics. I put an emphasis on studying
-<a href="https://esahubble.org/wordbank/dwarf-galaxy/#:~:text=Dwarf%20galaxies%20are%20small%20galaxies,Way%20or%20the%20Andromeda%20Galaxy.">dwarf galaxies</a> one of the oldest, most dark-matter dominated, and chemically primitive stellar systems in the universe - because I was intrigued by their power to challenge
+<a href="https://esahubble.org/wordbank/dwarf-galaxy/#:~:text=Dwarf%20galaxies%20are%20small%20galaxies,Way%20or%20the%20Andromeda%20Galaxy.">dwarf galaxies</a> - one of the oldest, most dark-matter dominated, and chemically primitive stellar systems in the universe - because I was intrigued by their power to challenge
 the <a href="https://en.wikipedia.org/wiki/Lambda-CDM_model">ΛCDM</a> paradigm and UChicago (where I did my undergrad) happens to have many experts in this field. Below are three research projects related to this subject:
 
 How do dwarf galaxies quench?
 ---
 
-I worked with <a href="https://astro.uchicago.edu/~andrey/">Prof. Andrey Kravtsov</a> and Dr. Christine Simpson on using the state-of-the-art cosmological hydrodynamical
+I worked with Prof. <a href="https://astro.uchicago.edu/~andrey/">Andrey Kravtsov</a> and Dr. Christine Simpson on using the state-of-the-art cosmological hydrodynamical
 simulation <a href="https://wwwmpa.mpa-garching.mpg.de/auriga/Auriga ">Auriga</a> to probe how dwarf galaxies quench (or, shut down their star formation) in simulations
 across different mass scales. We found that low-mass dwarf galaxies are primarily quenched by the UV ionizing photons from the 
 <a href="https://www.nsf.gov/news/special_reports/astronomy/epoch_reionization.pdf">epoch of reionization</a>, intermediate-mass dwarf galaxies are primarily 
