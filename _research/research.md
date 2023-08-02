@@ -52,8 +52,7 @@ How does stochastic star formation affect global properties of dwarf galaxies?
 ---
 For my honors thesis, I worked with Prof. <a href="https://astro.uchicago.edu/~andrey/">Andrey Kravtsov</a> on improving a semi-analytical galaxy evolution
 model called <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2667K/abstract">GRUMPY</a>
-(credit to the <a href="https://en.wikipedia.org/wiki/Grumpy_Cat">GRUMPY cat</a>
-, don't ask me why they named it this way) by implementing stochastic star formation for dwarf galaxies in the model. 
+(credit to the <a href="https://en.wikipedia.org/wiki/Grumpy_Cat">GRUMPY cat</a>, don't ask me why they named it that) by implementing stochastic star formation for dwarf galaxies in the model. 
 
 
 
