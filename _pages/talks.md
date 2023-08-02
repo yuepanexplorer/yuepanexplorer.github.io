@@ -4,7 +4,9 @@ permalink: /talks/
 ---
 
 1. Galactic Frontiers: Dwarf Galaxies in the Local Volume and Beyond <a href="https://indico.flatironinstitute.org/event/3615/timetable/?view=standard">[Link]</a>
+
 Talk title: Stellar Metallicities from DECam u-band Photometry: A Study of Milky Way Ultra-Faint Dwarf Galaxies
+
 Date: July 24 - 26, 2023
 Location: Flatiron Institute, NY
 
