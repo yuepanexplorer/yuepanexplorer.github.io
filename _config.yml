@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yue Pan"
 title_separator          : "-"
 name                     : &name "Yue Pan"
-description              : &description "Astrophysics Ph.D. student @ Princeton"
+description              : &description "Astrophysics Ph.D. candidate @ Princeton"
 url                      : https://yuepanexplorer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuepanexplorer/yuepanexplorer.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yue Pan"
   avatar           : "profilepic.png"
-  bio              : "Astrophysics Ph.D student @ Princeton yue.pan@princeton.edu"
+  bio              : "Astrophysics Ph.D candidate @ Princeton yue.pan@princeton.edu"
   location         : "Princeton, NJ"
   employer         :
   #NASA/ADS         : "https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7922-9726&sort=date%20desc%2C%20bibcode%20desc"
