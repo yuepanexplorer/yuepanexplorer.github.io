@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yue Pan, a first-year astrophysics Ph.D student at Princeton University. My research interest includes using both computational and observational astrophysics to understand the physics of galaxy formation and evolution. Feel free to check out my website!
+I'm Yue Pan, a third-year astrophysics Ph.D candidate at Princeton University. My research interest includes using both computational and observational astrophysics to understand the physics of galaxy formation and evolution. Feel free to check out my website!
