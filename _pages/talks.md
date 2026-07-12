@@ -3,6 +3,16 @@ title: "Talks and Conferences"
 permalink: /talks/
 ---
 
+**NVIDIA Open Hackathon at Princeton University**
+---
+
+Focus: _GPU computing - RAMSES porting, profiling, and optimization with NVIDIA Nsight Compute (`ncu`)_
+
+Date: June 2 - 4, 2026
+
+Location: Princeton, NJ
+
+
 **Galactic Frontiers: Dwarf Galaxies in the Local Volume and Beyond**  <a href="https://indico.flatironinstitute.org/event/3615/timetable/?view=standard">[Link]</a>
 ---
 

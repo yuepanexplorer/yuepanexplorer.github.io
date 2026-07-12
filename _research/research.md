@@ -4,6 +4,40 @@ title: "Research"
 permalink: /research/
 ---
 
+Current research at Princeton
+---
+
+My Ph.D. research focuses on computational galaxy formation and high-performance computing. I develop efficient, physically motivated models that connect dark-matter halos, baryons, feedback, and environment, and I use large cosmological simulations to test those models against observations.
+
+### Galaxy formation and galactic outflows in cosmic voids
+
+Working with Romain Teyssier, Ulrich P. Steinwandel, and Alice Pisani, I used the hydrodynamics code RAMSES to simulate galaxy formation in cosmologically underdense environments. We studied how galaxy-formation processes and galactic outflows interact with large-scale cosmic structure. This work was published in MNRAS in June 2025: <a href="https://arxiv.org/abs/2503.02938">_Much Ado About Nothing: Galaxy Formation and Galactic Outflows in Cosmic Voids_</a>.
+
+### Satellite galaxies in the Merian Survey
+
+Working with J. Greene, S. Danieli, and the Merian collaboration, I led the analysis of a statistical census of bright satellites around Milky-Way analogs. We use the scale of the Merian Survey and statistical modeling to characterize satellite distributions and star-forming activity. This work was published in ApJ in December 2025: <a href="https://arxiv.org/abs/2512.12846">_The Merian Survey: A Statistical Census of Bright Satellites of Milky Way Analogs_</a>.
+
+I also contribute to the broader <a href="https://arxiv.org/abs/2410.01884">Merian survey analysis</a>, a <a href="https://arxiv.org/abs/2410.01886">non-parametric study of H-alpha morphology in bright dwarf galaxies</a>, and ongoing work on photometric redshifts for star-forming dwarf galaxies.
+
+### On-the-fly mapping of intergalactic metal enrichment
+
+I built a mass-conserving 256<sup>3</sup> Eulerian intergalactic-medium enrichment grid with persistent halo wind bubbles in a combined RAMSES dark-matter-only and GRUMPY pipeline. The model recovers filamentary enrichment at semi-analytic cost, shows that internal enrichment dominates the mass-metallicity relations of classical dwarf galaxies, and identifies two characteristic peaks in intergalactic-medium metallicity. This paper is in preparation for submission to MNRAS.
+
+### Local filtering mass during inhomogeneous reionization
+
+I am using controlled RAMSES-RT zoom simulations to predict the local filtering mass of dwarf-galaxy progenitors from ionization-front arrival time, ultraviolet intensity, spectral hardness, thermal history, and environment. The main diagnostics include baryon retention, cold inflow, and self-shielding. This paper is in preparation for submission to MNRAS.
+
+### The CAMELS-RAMSES model
+
+As part of the CAMELS collaboration, I contribute to an adaptive-mesh-refinement RAMSES model for the public CAMELS simulation suite. We benchmark cosmic star-formation histories, mass functions, stellar-to-halo mass relations, and matter maps against IllustrisTNG, Simba, Astrid, and Swift-EAGLE while testing their responses to cosmology, feedback, and star-formation parameters.
+
+### GPU acceleration of RAMSES
+
+At the NVIDIA Open Hackathon at Princeton University in June 2026, I worked on porting, profiling, and optimizing RAMSES for NVIDIA GPUs. The project used NVIDIA Nsight Compute (`ncu`) to identify performance bottlenecks and guide optimization of the cosmological hydrodynamics code.
+
+Earlier research
+---
+
 Before I start grad school, I sampled many fields of astrophysics. I put an emphasis on studying ultra-faint dwarf galaxies (<a href="https://en.wikipedia.org/wiki/Dwarf_galaxy#:~:text=Ultra%2Dfaint%20dwarf%20galaxies,-Ultra%2Dfaint%20dwarf&text=Unlike%20GCs%2C%20UFDs%20contain%20a,dark%20matter%2Ddominated%20systems%20known.">UFDs</a>) - one of the oldest, most dark-matter dominated, and chemically primitive stellar systems in the universe - because I was intrigued by their power to challenge
 the <a href="https://en.wikipedia.org/wiki/Lambda-CDM_model">ΛCDM</a> paradigm. UChicago (where I did my undergrad) happens to have many experts in this field. My exploration into dwarf galaxies was encapsulated in three research projects, each of which attempted to answer a specific question.
 
@@ -41,8 +75,6 @@ In the summer of 2022, I was selected as one of the <a href="https://www.daad.de
 Non-astro research exploration: machine learning!
 ---
 In the summer of 2023, I was selected as one of the <a href="https://lambdafoundation.org/">Lambda scholars</a> to work at Mila, the Quebec AI Institute. Currently, I'm collaborating with Prof. <a href="https://mila.quebec/en/person/yashar-hezaveh/">Yashar Hezaveh</a> and Prof. <a href="https://phys.umontreal.ca/repertoire-departement/professeurs/professeur/in/in31242/sg/Laurence%20Perreault-Levasseur/">Laurence Perreault-Levasseur</a> on an ambitious project. Our goal is to train a neural network capable of transforming low-resolution images into high-resolution versions. This endeavor has substantial implications for astronomy, specifically in the field of strong gravitational lensing. In this domain, different sections of the source object are magnified to varying degrees, making it challenging to accurately represent the source image using a uniform resolution.
-
-
 
 
 
